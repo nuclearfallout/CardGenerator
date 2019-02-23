@@ -9,5 +9,5 @@ Make a reports directory for fake cards to be outputted to:
 Run program:
 ```python card.py```
 
-Title writer for cards generated for current session, colorful ascii display.
+Title writer for cards generated in current session, colorful ascii display.
 ---
